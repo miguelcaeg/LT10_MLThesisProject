@@ -7,7 +7,7 @@ This project analyzes the relationship between job skills and salary using inter
 1. [Data Jobs Dataset](https://huggingface.co/datasets/lukebarousse/data_jobs)
 
 2. Labor Force Survey (Philippines)  
-Provided by instructor. Could be seen in this [gdrive link](https://drive.google.com/drive/folders/1kmzHJhk5aYhRLfWTtu3EnCbkDmg83Lin?usp=sharing). The file is called FIES2015 - LFSJAN16 CSV - Cleaned.csv
+Provided by instructor. All datasets be seen in this [gdrive link](https://drive.google.com/drive/folders/1kmzHJhk5aYhRLfWTtu3EnCbkDmg83Lin?usp=sharing). The file is called FIES2015 - LFSJAN16 CSV - Cleaned.csv
 
 ## Methodology
 
