@@ -9,6 +9,8 @@ This project analyzes the relationship between job skills and salary using inter
 2. Labor Force Survey (Philippines)  
 Provided by instructor. All datasets be seen in this [gdrive link](https://drive.google.com/drive/folders/1kmzHJhk5aYhRLfWTtu3EnCbkDmg83Lin?usp=sharing). The file is called FIES2015 - LFSJAN16 CSV - Cleaned.csv
 
+3. World Bank country-level context data. The file is called world_bank_data_2025.csv
+
 ## Methodology
 
 - Clean job titles
@@ -26,8 +28,7 @@ Provided by instructor. All datasets be seen in this [gdrive link](https://drive
 ## How to Run
 
 1. Download datasets
-2. Place them in the `/data` folder
-3. Run the notebook
+2. Run the notebook
 
 ## Authors
 
